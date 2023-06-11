@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_array_into_heap", "Convert_array_into_heap\Convert_array_into_heap.csproj", "{0C443AF0-ECCB-464D-849F-705ED456A969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C443AF0-ECCB-464D-849F-705ED456A969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C443AF0-ECCB-464D-849F-705ED456A969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C443AF0-ECCB-464D-849F-705ED456A969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C443AF0-ECCB-464D-849F-705ED456A969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {715014B5-EED3-405D-A4A5-7BECCA24F691}
+	EndGlobalSection
+EndGlobal
